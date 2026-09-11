@@ -17,7 +17,7 @@
 
 ##  Overview
 
-This capstone project focuses on integrating production-ready software modules into **Lumeca Health’s** virtual-care platform. Lumeca Health operates a white-labeled telehealth platform across Saskatchewan and other Canadian regions, connecting patients with doctors and nurse practitioners for remote consultations and appointments.
+This capstone project focuses on integrating production-ready software modules into **Lumeca Health’s** virtual-care platform. Lumeca Health operates a telehealth platform across Saskatchewan and other Canadian regions, connecting patients with doctors and nurse practitioners for remote consultations and appointments.
 
 Rather than building an isolated application from scratch, our engineering team is contributing directly to Lumeca's existing codebase across three potential backlog areas:
 
