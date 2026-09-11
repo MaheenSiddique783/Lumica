@@ -15,4 +15,3 @@
 - `tests/`: Automated tests.
 
 ## Getting Started
-> **Note**: *Add instructions on how to set up the project locally for development.*
