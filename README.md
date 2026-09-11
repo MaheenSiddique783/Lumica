@@ -6,8 +6,6 @@
 - Ansar
 
 ## Overview
-> **Note**: *Add a brief description of your Capstone project here.*
-
 ## Project Structure
 - `docs/`: Documentation for the project.
   - `meeting_minutes/`: Notes and minutes from team and stakeholder meetings.
