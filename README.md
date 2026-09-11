@@ -1,4 +1,4 @@
-#  Lumeca Health — Software Systems Capstone Project (ENSE 400)
+#  Team Theta:  Software Systems Capstone Project (ENSE 400)
 
 > **Industry Partner:** Lumeca Health  
 > **Academic Institution:** University of Regina — Faculty of Engineering and Applied Science  
