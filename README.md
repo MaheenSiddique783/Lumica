@@ -3,7 +3,7 @@
 > **Industry Partner:** Lumeca Health  
 > **Academic Institution:** University of Regina — Faculty of Engineering and Applied Science  
 > **Course:** ENSE 400 (Design Workshop I)  
-> **Supervisor:** Dr. Tim  
+> **Supervisor:** Dr. Tim Maciag
 
 ---
 
